@@ -251,6 +251,7 @@ functions.
 * gleam
 * gofmt
 * gofumpt
+* goimports-reviser
 * google-java-format
 * hclfmt
 * hlint
