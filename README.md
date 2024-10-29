@@ -221,7 +221,7 @@ functions.
 <!-- `> bash ./supported-programs.sh` -->
 
 <!-- BEGIN mdsh -->
-`treefmt-nix` currently supports 103 formatters:
+`treefmt-nix` currently supports 104 formatters:
 
 * [actionlint](programs/actionlint.nix)
 * [alejandra](programs/alejandra.nix)
@@ -259,6 +259,7 @@ functions.
 * [gleam](programs/gleam.nix)
 * [gofmt](programs/gofmt.nix)
 * [gofumpt](programs/gofumpt.nix)
+* [goimports-reviser](programs/goimports-reviser.nix)
 * [goimports](programs/goimports.nix)
 * [golines](programs/golines.nix)
 * [google-java-format](programs/google-java-format.nix)
